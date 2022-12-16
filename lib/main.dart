@@ -80,7 +80,7 @@ class _CalculatorState extends State<Calculator> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Simple Calculator'),
+        title: Text('SIMPLE CALCULATOR'),
         centerTitle: true,
       ),
       body: Column(
